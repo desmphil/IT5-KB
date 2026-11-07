@@ -1,72 +1,26 @@
 ---
-title: "HELPDESK - Expert Solutions TI - MUSIQUE"
+title: "Musique — WiiM Pro"
 source_url: https://sites.google.com/view/it5kb/musique
 migrated_on: 2026-11-07
-status: imported-needs-review
+updated_on: 2026-11-07
+status: updated
 ---
 
-# VOLUMIO
+# Musique — WiiM Pro
 
-# Musique et Volumio
+## Appareil et emplacement
 
-Start by Rebooting VOLUMIO
+La musique utilise un appareil **WiiM Pro**, installé dans le **backroom**, et l’application **WiiM** sur une tablette. L’ancien système Volumio n’est plus utilisé.
 
-Click the POWER Button and restart Volumio
+## Assistance pour un problème de musique
 
-OR
+Deux options sont proposées :
 
-Restart Volumio by Unplugging the USB-C
+- Redémarrer l’appareil WiiM Pro situé dans le backroom.
+- Utiliser une tablette sur laquelle l’application WiiM est installée pour contrôler la musique.
 
-- 
+## Limite du support musique
 
-![Illustration 1 — musique](../assets/musique-01.png)
+Le support musique se limite au redémarrage du WiiM Pro ou à l’utilisation d’une tablette avec l’application WiiM installée. Si le problème persiste, le support s’arrête là : aucun dépannage supplémentaire de la musique n’est pris en charge.
 
-![Illustration 2 — musique](../assets/musique-02.png)
-
-I SEE THE MUSIC PLAYING BUT THERE IS NO SOUND
-
-Validate the Volume and the OUTPUT
-
-Validate the Output Device → to HEADPHONES
-
-![Illustration 3 — musique](../assets/musique-03.png)
-
-UPDATE THE PLUGINS TO THE LATEST VERSION
-
-Update the current SPOTIFY pluggins.
-
-DO NOT INSTALL ANY OTHER PLUGINS
-
-AFTER INSTALLATION → REBOOT
-
-- Update the Plugins Spotify Credentials
-
-![Illustration 4 — musique](../assets/musique-04.png)
-
-![Illustration 5 — musique](../assets/musique-05.png)
-
-![Illustration 6 — musique](../assets/musique-06.png)
-
-RECONNECT THE SPOTIFY PLUGINS
-
-\*\* For Administration only
-
-In the Plugins (Logoff)
-
-Then with your browser login again using the proper account in spotify.
-
-\*\*Account cannot be shared between the center, it must be the one assign to your location
-
-![Illustration 7 — musique](../assets/musique-07.png)
-
-USE WEB RADIO
-
-Select some Music from Web Radio or MP3.  
-
-WARNING:
-
-Spotify, Youtube Music, and all online streaming services are often changing their policy and code breaking the services. This is not supported as Volumio is a free systems. until VOLUMIO fix the issue, the only option is to use local music.  
-
-Open a SUPPORT TICKET for further troubleshooting if not related to the above.
-
-![Illustration 8 — musique](../assets/musique-08.png)
+L’assistant IA doit respecter cette limite et ne pas proposer d’autres procédures de dépannage de la musique.

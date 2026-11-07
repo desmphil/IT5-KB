@@ -2,17 +2,17 @@
 
 Migration de la base Google Sites vers Markdown, le 7 novembre 2026.
 
-**Import de travail à réviser.** Les formulations, langues et procédures existantes ont été conservées, sans compléter les sections inachevées ni valider les diagnostics techniques. Aucun changement n’a été apporté au site original.
+**Base de travail en cours de révision pour l’assistance par IA.** Les articles Musique et NFC / RFID ont été mis à jour selon les consignes du propriétaire : WiiM Pro dans le backroom avec support limité, et diagnostic des passes d’accès physiques et mobiles. Le lien NFC / RFID de l’accueil a également été actualisé. Les autres articles conservent les formulations, langues et procédures importées, sans compléter les sections inachevées ni valider les diagnostics techniques. Aucun changement n’a été apporté au site original.
 
 ## Articles
 
 - [Accueil et liens de support](articles/home.md)
-- [Passkit](articles/passkit.md)
+- [NFC / RFID — Diagnostic des passes d’accès](articles/nfc.md)
 - [Tourniquets anciens](articles/tourniquet.md)
 - [Tourniquets V2](articles/tourniquet-v2.md)
 - [Portes](articles/portes.md)
 - [Moneris](articles/moneris.md)
-- [Musique / Volumio](articles/musique.md)
+- [Musique / WiiM Pro](articles/musique.md)
 - [Caméra](articles/camera.md)
 - [Google TV](articles/googletv.md)
 - [Imprimante](articles/imprimante.md)
@@ -35,4 +35,4 @@ La publication publique et l’intégration au chatbot sont des étapes ultérie
 - `extraction-errors.json` : erreurs de téléchargement éventuelles (liste vide si aucune).
 - `QA.md` : contrôles de migration.
 
-Les liens internes ont été convertis en chemins Markdown relatifs. Les liens externes restent externes, notamment Microsoft Forms, SimpleHelp et la vidéo YouTube. Les fautes et références obsolètes du contenu source sont volontairement laissées à réviser. Les noms génériques des illustrations sont des repères de migration, pas des descriptions visuelles vérifiées.
+Les liens internes ont été convertis en chemins Markdown relatifs. Les liens externes restent externes, notamment Microsoft Forms, SimpleHelp et la vidéo YouTube. Les fautes et références obsolètes des articles non encore révisés restent à corriger. Les noms génériques des illustrations sont des repères de migration, pas des descriptions visuelles vérifiées.

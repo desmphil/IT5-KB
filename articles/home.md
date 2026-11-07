@@ -32,11 +32,11 @@ Configuration des télé:
 
 [GOOGLE TV](googletv.md)
 
-Passkit
+NFC / RFID
 
-Probleme avec NFC, Samsung, Apple et cartes RF.
+Diagnostic d’une passe RF qui ne fonctionne pas : jeton physique SLIX (keytag), iPhone, Android ou Samsung. Comparer les passes pour orienter le diagnostic vers la passe, le lecteur ou le tourniquet.
 
-[PASSKIT](passkit.md)
+[NFC / RFID — PASSES D’ACCÈS](nfc.md)
 
 Camera
 

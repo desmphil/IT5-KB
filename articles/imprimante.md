@@ -17,7 +17,7 @@ L'imprimante n'imprime pas:
 
 L'imprimante n'est pas installer
 
-Ouvrir un billet de support dans le CHAT sur le HomePage
+Ouvrir une [demande de support](support.md).
 
 SCAN to EMAIL
 

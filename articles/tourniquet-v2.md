@@ -5,7 +5,7 @@ migrated_on: 2026-11-07
 status: imported-needs-review
 ---
 
-# TOURNIQUET (V2)
+# TOURNIQUET (Nouveau)
 
 ![Illustration 1 — tourniquet-v2](../assets/tourniquet-v2-01.jpg)
 
